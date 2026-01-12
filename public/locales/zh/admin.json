@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "dashboard": "数据统计",
+    "inquiries": "询盘管理",
+    "blogs": "博客管理",
+    "aiMarketing": "AI营销宝",
+    "settings": "设置",
+    "logout": "退出登录"
+  },
+  "dashboard": {
+    "title": "数据统计",
+    "inquiries": "询盘数",
+    "monthlyVisits": "月访问量",
+    "dailyVisits": "日访问量",
+    "topPages": "热门页面",
+    "visitorMap": "访客来源地图",
+    "recentInquiries": "最近询盘"
+  },
+  "inquiries": {
+    "title": "询盘管理",
+    "all": "全部",
+    "unread": "未读",
+    "read": "已读",
+    "replied": "已回复",
+    "name": "姓名",
+    "email": "邮箱",
+    "phone": "电话",
+    "company": "公司",
+    "subject": "主题",
+    "message": "内容",
+    "time": "时间",
+    "country": "国家",
+    "reply": "回复",
+    "markAsRead": "标记为已读",
+    "markAsReplied": "标记为已回复",
+    "delete": "删除",
+    "noInquiries": "暂无询盘"
+  },
+  "blogs": {
+    "title": "博客管理",
+    "newPost": "新建文章",
+    "edit": "编辑",
+    "delete": "删除",
+    "publish": "发布",
+    "unpublish": "取消发布",
+    "title": "标题",
+    "slug": "URL",
+    "content": "内容",
+    "excerpt": "摘要",
+    "featuredImage": "特色图片",
+    "seo": {
+      "title": "SEO标题",
+      "description": "SEO描述",
+      "keywords": "关键词",
+      "metaTags": "Meta标签",
+      "preview": "预览"
+    },
+    "save": "保存",
+    "cancel": "取消",
+    "published": "已发布",
+    "draft": "草稿"
+  },
+  "aiMarketing": {
+    "title": "AI营销宝",
+    "workflows": "工作流",
+    "create": "创建",
+    "edit": "编辑",
+    "run": "运行",
+    "status": "状态",
+    "active": "活跃",
+    "inactive": "未激活"
+  },
+  "login": {
+    "title": "管理员登录",
+    "username": "用户名",
+    "password": "密码",
+    "login": "登录",
+    "error": "用户名或密码错误"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About Us",
+    "news": "Latest News",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "title": "Welcome to Devos",
+    "subtitle": "Your Trusted Business Partner",
+    "watchVideo": "Watch Video"
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Discover our wide range of high-quality products"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Learn more about our company and mission"
+  },
+  "news": {
+    "title": "Latest News",
+    "readMore": "Read More"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "company": "Company",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Submit",
+    "success": "Thank you! We will contact you soon."
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

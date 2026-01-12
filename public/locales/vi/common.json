@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Về chúng tôi",
+    "news": "Tin tức mới nhất",
+    "contact": "Liên hệ"
+  },
+  "home": {
+    "title": "Chào mừng đến với Devos",
+    "subtitle": "Đối tác kinh doanh đáng tin cậy của bạn",
+    "watchVideo": "Xem video"
+  },
+  "products": {
+    "title": "Sản phẩm của chúng tôi",
+    "description": "Khám phá nhiều sản phẩm chất lượng cao của chúng tôi"
+  },
+  "about": {
+    "title": "Về chúng tôi",
+    "description": "Tìm hiểu thêm về công ty và sứ mệnh của chúng tôi"
+  },
+  "news": {
+    "title": "Tin tức mới nhất",
+    "readMore": "Đọc thêm"
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "name": "Tên",
+    "email": "Email",
+    "phone": "Điện thoại",
+    "company": "Công ty",
+    "subject": "Chủ đề",
+    "message": "Tin nhắn",
+    "submit": "Gửi",
+    "success": "Cảm ơn bạn! Chúng tôi sẽ liên hệ với bạn sớm."
+  },
+  "footer": {
+    "rights": "Tất cả các quyền được bảo lưu"
+  }
+}
