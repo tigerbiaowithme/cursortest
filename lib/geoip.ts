@@ -1,14 +1,18 @@
-import geoip from 'geoip-lite';
-
 export function getCountryFromIP(ip: string): string {
   // 处理本地IP
   if (ip === '::1' || ip === '127.0.0.1' || ip.startsWith('192.168.') || ip.startsWith('10.')) {
     return 'US'; // 默认返回美国
   }
 
-  const geo = geoip.lookup(ip);
-  if (geo) {
-    return geo.country;
+  try {
+    // 动态导入以避免构建时加载数据文件
+    const geoip = require('geoip-lite');
+    const geo = geoip.lookup(ip);
+    if (geo) {
+      return geo.country;
+    }
+  } catch (error) {
+    console.error('GeoIP lookup error:', error);
   }
   return 'US'; // 默认返回美国
 }
